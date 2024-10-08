@@ -1,0 +1,25 @@
+.defaultText {
+  font-size: 32;
+  font-family: System-Regular;
+  font-weight: regular;
+  text-length: 32;
+}
+
+#background {
+  width: 100%;
+  height: 100%;
+  fill: #e0ccac
+  ;
+}
+
+.application-fill           { fill: #fff4dc; }
+.foreground-fill            { fill: fb-white; }
+.background-fill            { fill: fb-black; } 
+
+#button-1 {
+  display: none;
+}
+
+#button-1 #text {
+  text-buffer: "Stop Alert";
+}

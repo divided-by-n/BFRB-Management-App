@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "entryPoint": "./app/index.js",
+    "name": "BFRB Management",
+    "slug": "BFRB Management"
+  }
+}

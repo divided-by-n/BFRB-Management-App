@@ -1,0 +1,13 @@
+<svg>
+ <rect id="background" />
+    <text id="dynamicText" x="50%" y="50%+15"
+          font-family="System-Regular" fill="black"
+          font-size="30" font-weight="bold"
+          text-anchor="middle">Detecting Behaviours</text>
+
+
+  
+    
+    <use id="button-1" href="#text-button" class="text-button bottom application-fill" />
+    
+</svg>
