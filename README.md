@@ -21,8 +21,6 @@ The system consists of a mobile app and a smartwatch integration. The smartwatch
 1. **Start the Expo Development Server**:
     
     ```bash
-    bash
-    Copy code
     npx expo start
     
     ```
@@ -52,8 +50,6 @@ The system consists of a mobile app and a smartwatch integration. The smartwatch
 1. **Switch to Node.js Version 14**:
     
     ```bash
-    bash
-    Copy code
     nvm install 14
     nvm alias default 14
     
@@ -62,8 +58,6 @@ The system consists of a mobile app and a smartwatch integration. The smartwatch
 2. **Install Node.js Dependencies**:
     
     ```bash
-    bash
-    Copy code
     npm install
     
     ```
@@ -71,8 +65,6 @@ The system consists of a mobile app and a smartwatch integration. The smartwatch
 3. **Run the Fitbit Command Line Interface (CLI)**:
     
     ```bash
-    bash
-    Copy code
     npx fitbit
     
     ```
@@ -86,8 +78,6 @@ The system consists of a mobile app and a smartwatch integration. The smartwatch
 2. **Build and Install the Application**:
     
     ```bash
-    bash
-    Copy code
     fitbit $ build-and-install
     
     ```
