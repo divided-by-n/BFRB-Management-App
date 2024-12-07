@@ -1,4 +1,4 @@
-# 📱 **BFRB Management Tool**  
+# 📱 **BFRB Management**  
 
 A mobile application and wearable device system designed to help individuals manage **Body-Focused Repetitive Behaviours (BFRBs)**, such as hair pulling, nail biting, and skin picking. The tool aims to recognize, track, and visualize these behaviours to support users in better understanding and managing their habits.  
 
